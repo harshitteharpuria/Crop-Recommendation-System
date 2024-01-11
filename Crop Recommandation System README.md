@@ -9,7 +9,7 @@ The Crop Recommendation System aims to assist farmers and agricultural enthusias
 Key Features:
 - Intelligent crop predictions using machine learning algorithms.
 - Scalable and adaptable to different environmental conditions.
-- 
+
 For any inquiries or feedback, feel free to reach out:
 
 Email: harshitteharpuria@gmail.com
